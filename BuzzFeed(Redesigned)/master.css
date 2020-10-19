@@ -1,0 +1,13 @@
+.wrapper__3B1Hn trendingNavWrapper__1povE ul li{
+
+}
+
+.navbar-nav {
+  text-align: center;
+}
+
+@include media-breakpoint-up(sm) {
+  .some-class {
+    display: block;
+  }
+}
